@@ -6,6 +6,8 @@
 
 ![alt text](demo.gif)
 
+![play with the demo](https://bit.ly/35VT4tW)
+
 ## Install
 
 ```bash
