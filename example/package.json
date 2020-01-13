@@ -1,0 +1,20 @@
+{
+  "name": "react-picture-in-picture-example",
+  "homepage": "https://Thomascogez.github.io/react-picture-in-picture",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "link:../node_modules/react",
+    "react-dom": "link:../node_modules/react-dom",
+    "react-scripts": "^1.1.4",
+    "react-picture-in-picture": "link:.."
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
