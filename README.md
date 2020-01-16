@@ -6,7 +6,7 @@
 
 ![alt text](demo.gif)
 
-[play with the demo](https://bit.ly/35VT4tW)
+[play with the demo](https://thomascogez.github.io/react-picture-in-picture)
 
 ## Install
 
